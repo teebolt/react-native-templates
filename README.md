@@ -7,3 +7,9 @@ Templates for starting a React Native iOS project. These are the same that you w
 * Page-Based Application
 * Single View Application
 * Tabbed Application
+
+## Installing
+
+## How to Use
+
+## Contributing 
