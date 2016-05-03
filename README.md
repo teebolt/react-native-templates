@@ -7,7 +7,7 @@ Will accept PR for Android support
 ## Template List
 * Master-Detail Application
 * Page-Based Application
-* Single View Application
+* Single View Application (Effectively React Native Default)
 * Tabbed Application
 
 ## Installing
