@@ -26,7 +26,6 @@ class Tabbed extends Component {
 
     this.state = {
       selectedTab: 'firstTab',
-      notifCount: 0,
       displayName: 'TabBarExample'
     }
   }
