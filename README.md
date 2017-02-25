@@ -1,5 +1,7 @@
 # iOS Templates for React Native
 
+Note: Looking for new maintainer for this project.
+
 Templates for starting a React Native iOS project. These are the same that you would find when creating a new project in Xcode.
 
 Really simple and easy to use if you are familiar with using the Xcode iOS templates
